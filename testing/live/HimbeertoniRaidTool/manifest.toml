@@ -2,5 +2,9 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "863963cfecdd0392166e20702d3262698868292e"
+changelog = """
+System: Changes to data storage (drops support for data from versions < 1.4.0)
+    User Interface: New interface for searching characters from database
+    General: Fix "Dmg" Calc being slightly off
+    User Interface: Some minor Ui improvements"""
