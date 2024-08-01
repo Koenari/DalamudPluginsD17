@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "4046a9a773264e13981dd468f67bd4157d69aefa"
+changelog = """
+Bugfix: Fix loot being inaccurate
+    Bugfix: Fix missing materia in etro sets"""
