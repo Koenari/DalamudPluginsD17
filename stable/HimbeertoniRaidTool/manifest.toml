@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "2fead4c4dc16ef75637c29d113fe6ba94f6f1227"
+commit = "4046a9a773264e13981dd468f67bd4157d69aefa"
 changelog = """
 Bugfix: Fix loot being inaccurate
     Bugfix: Fix missing materia in etro sets"""
