@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "94809b80a04dd559c233d53aaf67a71bfa61535d"
+changelog = "Bugfix: Fix update from lodestone"
