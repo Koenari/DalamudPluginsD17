@@ -2,5 +2,8 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "35151e31bcda28cfca13ec51a7d77e39707ef0aa"
+changelog = """
+User Interface: Add quick select for job/character/player (similar to gear sets)
+    User Interface: Improved usability of BiS section in gear edit
+    Bugfix: 2nd,3rd,... set from XivGear.app sheets are now fetched correctly, not always the 1st"""
