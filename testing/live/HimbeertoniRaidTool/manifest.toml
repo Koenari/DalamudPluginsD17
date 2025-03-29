@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "25246e0e9666f146d70857e0208cc2df906e9eb8"
+changelog = "New Feature: Stats can now take a party bonus into account (adjust the default in settings)"
