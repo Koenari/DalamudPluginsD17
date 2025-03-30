@@ -2,5 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "a6357d0dcb7a3884157b80ab6f9048c0ad57f18c"
+changelog = """
+Bugfix: Tomestone gear is now displayed properly
+    Bugfix: item level coloring works correctly (was off by 10)"""
