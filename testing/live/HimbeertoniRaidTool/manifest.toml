@@ -2,5 +2,5 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "847828395ac22723bd464f6cb48b3c2231b30df7"
-changelog = "Bugfix: Lootmaster crashing and spamming log again"
+commit = "617e7c46a182f760eeae4461b71b9add84608925"
+changelog = "Bugfix: Babyface coffers resolve to the correct items now"
