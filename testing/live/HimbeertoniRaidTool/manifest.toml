@@ -2,7 +2,7 @@
 repository = "https://github.com/Koenari/HimbeertoniRaidTool.git"
 owners = [ "Koenari" ]
 project_path = "HimbeertoniRaidTool"
-commit = "64dee41fd15210fdf1c612bed27627e0b70fdf8e"
+commit = "0b4dcc463b89314dfb0921b7123163a4b389ef47"
 changelog = """
-User Interface: Better input for dates and times
-    User Interface: Can now add any character to a raid session"""
+General: Updated for 7.4
+    Loot Session: All non weapon drops are now pre-selected in loot session"""
